@@ -1,2 +1,4 @@
 # study-floodgate
-floodgate related
+floodgateの過去の対戦ログ(csa)を自前のツールでsfen文字列の集合にしたもの。
+圧縮してますが解凍すると70MBくらいあるテキストファイルなのでご注意。
+(2025年分は途中経過)
